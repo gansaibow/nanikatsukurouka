@@ -117,4 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="txtMidiText.Text" xml:space="preserve">
+    <value>MFile 1 18 480
+MTrk
+0 Meta TrkName ""
+0 Meta Copyright "Copyright (C) 2014"
+0 Tempo 500000
+0 TimeSig 4/4 24 8
+0 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Setup"
+0 Meta 0x21 00
+1920 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName ""
+0 Meta 0x21 00
+0 On ch=1 n=60 v=100
+480 Off ch=1 n=60 v=0
+480 On ch=1 n=62 v=100
+960 Off ch=1 n=62 v=0
+960 On ch=1 n=64 v=100
+1440 Off ch=1 n=64 v=0
+1440 On ch=1 n=65 v=100
+1920 Off ch=1 n=65 v=0
+1920 On ch=1 n=67 v=100
+2400 Off ch=1 n=67 v=0
+2400 On ch=1 n=69 v=100
+2880 Off ch=1 n=69 v=0
+2880 On ch=1 n=71 v=100
+3360 Off ch=1 n=71 v=0
+3360 On ch=1 n=72 v=100
+3840 Off ch=1 n=72 v=0
+3840 Meta TrkEnd
+TrkEnd</value>
+  </data>
 </root>
